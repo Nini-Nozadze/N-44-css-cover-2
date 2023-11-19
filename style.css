@@ -1,0 +1,13 @@
+body{
+    background-image: url(img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headings{
+    color: grey;
+}
+
+.paragraphs{
+    color: white;
+}
